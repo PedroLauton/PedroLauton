@@ -12,7 +12,7 @@
        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroLauton&count_private=true&show_icons=true&theme=flag-india&show"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLauton&layout=compact&count_private=true&theme=flag-india&show)](https://github.com/anuraghazra/github-readme-stats"/>
     <a/>
-    <a href="https://github.com/PedroLauton#gh-light-mode-only">
+    <a href="https://github.com/PedroLauton#gh-dark-mode-only">
       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroLauton&count_private=true&show_icons=true&theme=github_dark&show"/>
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLauton&layout=compact&count_private=true&theme=github_dark&show)](https://github.com/anuraghazra/github-readme-stats"/>
     </a>
