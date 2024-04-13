@@ -1,7 +1,6 @@
 - 👋 Olá, me chamo Pedro Lauton;
 - 👀 Me interesso por jogos, histórias e tecnologias;
 - 🌱 No momento, estou cursando ADS no IFSP - Câmpus Guarulhos;
-- 💞️ Estou começando na área de programação! 😄
 
 ## 
 
@@ -9,16 +8,17 @@
 
 <div align="center">
     <a href="https://github.com/PedroLauton#gh-light-mode-only">
-       <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroLauton&count_private=true&show_icons=true&theme=flag-india&show"/>
         <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLauton&layout=compact&count_private=true&theme=flag-india&show)](https://github.com/anuraghazra/github-readme-stats"/>
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLauton&hide_border=false&theme=buefy"/>
     <a/>
     <a href="https://github.com/PedroLauton#gh-dark-mode-only">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroLauton&count_private=true&show_icons=true&theme=github_dark&show"/>
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLauton&layout=compact&count_private=true&theme=github_dark&show)](https://github.com/anuraghazra/github-readme-stats"/>
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLauton&theme=midnight-purple&hide_border=false&background=0d11175c"/>
     </a>
-</div>
+</div> 
 
 ## 
+
 <br/>
 
 <div align="left">
@@ -27,6 +27,10 @@
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML"/>
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS"/> 
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"            title="JavaScript" />
+     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"/>
+     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL"/>
+     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java"/>
+     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="R"/>
 </div>
   
 ##
