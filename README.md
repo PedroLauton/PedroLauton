@@ -8,14 +8,14 @@
 
 <div align="center">
     <a href="https://github.com/PedroLauton#gh-light-mode-only">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLauton&layout=compact&count_private=true&theme=graywhite&show)](https://github.com/anuraghazra/github-readme-stats"/>
-        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=PedroLauton&theme=graywhite&locale=pt_BR"/>
-    <a/>
-    <a href="https://github.com/PedroLauton#gh-dark-mode-only">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLauton&layout=compact&count_private=true&theme=github_dark&show)](https://github.com/anuraghazra/github-readme-stats"/>
-        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroLauton&theme=midnight-purple&hide_border=false&background=0d11175c"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLauton&layout=compact&count_private=true&theme=graywhite&show" />
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=PedroLauton&theme=graywhite&locale=pt_BR" />
     </a>
-</div> 
+    <a href="https://github.com/PedroLauton#gh-dark-mode-only">
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLauton&layout=compact&count_private=true&theme=gotham&show" />
+        <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=PedroLauton&theme=gotham&locale=pt_BR" />
+    </a>
+</div>
 
 ## 
 
