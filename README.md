@@ -1,6 +1,7 @@
 - 👋 Olá, me chamo Pedro Lauton;
 - 👀 Me interesso por jogos, histórias e tecnologias;
 - 🌱 No momento, estou cursando ADS no IFSP - Câmpus Guarulhos;
+- 💼 Portfólio: https://pedrolauton.github.io/portfolio/
 
 ## 
 
