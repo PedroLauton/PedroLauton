@@ -17,9 +17,9 @@
     </a>
 </div>
 
-## 
-
 <br/>
+
+## Linguagens
 
 <div align="left">
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/> 
@@ -32,10 +32,17 @@
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java"/>
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="R"/>
 </div>
-  
-##
-    
-   <a href="mailto:lautonpedro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://instagram.com/lauton.p?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-    
+<br/>
+
+## Ambientes de desenvolvimento
+
+![VSCode](https://img.shields.io/badge/Visual_Studio-007ACC?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+<br/>
+
+## Contatos
+
+<a href="mailto:lautonpedro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/lauton.p?igshid=ZDdkNTZiNTM=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrolauton/)
