@@ -24,14 +24,13 @@
 
 <div align="left">
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/> 
-     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"              title="C++" />
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML"/>
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS"/> 
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"            title="JavaScript" />
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" title="PHP"/>
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL"/>
      <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java"/>
-     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="R"/>
+     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
 </div>
 
 <br/>
@@ -39,6 +38,18 @@
 ## Ambientes de desenvolvimento
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio-007ACC?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![EClipse](https://img.shields.io/badge/Eclipse-ED820E?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-006400?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FF6400?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+<br/>
+
+## Sistemas operacionais
+
+<div align="left">
+     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" title="C"/> 
+     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="HTML"/>
+</div>
 
 <br/>
 
