@@ -35,6 +35,15 @@
 
 <br/>
 
+## Versionamento de código
+
+<div align="left">
+     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git"/> 
+     <img align="center" height="50em" src="https://img.icons8.com/?size=100&id=Mhl1TfJLdkh5&format=png&color=000000" title="github"/>
+</div>
+
+<br/>
+
 ## Ambientes de desenvolvimento
 
 ![VSCode](https://img.shields.io/badge/Visual_Studio-007ACC?style=for-the-badge&logo=visual%20studio&logoColor=white)
@@ -47,8 +56,8 @@
 ## Sistemas operacionais
 
 <div align="left">
-     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" title="C"/> 
-     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="HTML"/>
+     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" title="windows"/> 
+     <img align="center" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="linux"/>
 </div>
 
 <br/>
